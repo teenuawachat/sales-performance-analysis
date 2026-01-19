@@ -31,6 +31,13 @@ support data-driven decision-making.
 
 ---
 
+### 🗂 Data Model
+The database design and table relationships used for this analysis can be seen below:
+
+![Data Model](sql/Sales_data_model.png)
+
+---
+
 ## 📊 Dashboard
 An interactive Power BI dashboard was developed to visualize:
 ![Sales Dashboard](images/Sales_dashboard.png)
