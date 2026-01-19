@@ -33,6 +33,8 @@ support data-driven decision-making.
 
 ## 📊 Dashboard
 An interactive Power BI dashboard was developed to visualize:
+![Sales Dashboard](images/sales_dashboard.png)
+
 - Overall revenue trends
 - Category-wise sales performance
 - Customer-level revenue contribution
